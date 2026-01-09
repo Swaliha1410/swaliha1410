@@ -18,8 +18,9 @@
 - GitHub: https://github.com/swaliha1410
 
 ---
-## 
-https://skillicons.dev/icons?i=python,html,css,js,git,github
+## 🛠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=python,html,css,java,js,git,github)
+
 
 
 
