@@ -21,6 +21,8 @@
 ---
 ## 🛠 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=python,html,css,java,js,git,github,icons?i=vscode,jupyter)
+<img src="https://skillicons.dev/icons?i=vscode,jupyter" />
+
 
 
 
