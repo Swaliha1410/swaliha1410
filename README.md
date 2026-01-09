@@ -20,7 +20,7 @@
 
 ---
 ## 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=python,html,css,java,js,git,github)<img src="https://skillicons.dev/icons?i=vscode,jupyter,git,github" />
+![My Skills](https://skillicons.dev/icons?i=python,html,css,java,js,git,github)<img src="https://skillicons.dev/icons?i=vscode" />
 
 
 
