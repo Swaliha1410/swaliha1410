@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Swaliha  
 
 🎓 CSE Student | 💻 Aspiring Full Stack Developer | Python & Web Developer
+
 🚀 Passionate about Projects, Startups & Tech  
 
 ---
@@ -19,7 +20,7 @@
 
 ---
 ## 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=python,html,css,java,js,git,github)
+![My Skills](https://skillicons.dev/icons?i=python,html,css,java,js,git,github,icons?i=vscode,jupyter)
 
 
 
